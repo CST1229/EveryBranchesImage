@@ -93,11 +93,7 @@ html += `
 [img={width}x{height}]{path}[/img]
 [img={valign}]{path}[/img]
 [img <a href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html" target="_blank">{options}</a>]{path}[/img]</code></pre>
-<details><summary>Source code that generated this page if you're interested</summary>
-<pre><code>${escapeHTML(code)}</code></pre>
-<p>Put this in a Branches decomp, then run in Node.js as a .mjs file and pipe it into a file. For example, in Windows CMD:</p>
-<pre><code>node _generate.mjs &gt; everyBranchesImage.html</code></pre>
-</details>
+<p>The source code that generated this page: <a target="_blank" href="https://github.com/CST1229/EveryBranchesImage">https://github.com/CST1229/EveryBranchesImage</a></p>
 <table><thead><tr>
 <th scope="col">Path</th>
 <th scope="col">Image</th>
