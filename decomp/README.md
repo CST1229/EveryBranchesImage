@@ -1,0 +1,1 @@
+This is where you put your Branches decomp. It should be directly in the folder (i.e `decomp/global.gd` should exist).
