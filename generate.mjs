@@ -14,8 +14,6 @@ if (!fsSync.existsSync(decompPath + "global.gd")) {
 const globalCode = await fs.readFile(decompPath + "global.gd", {encoding: "utf-8"});
 const version = globalCode.match(/var\s+version\s*=\s*"(.+?)"/s)[1];
 
-const code = await fs.readFile(import.meta.filename, {encoding: "utf-8"});
-
 function escapeHTML(text) {
 	text = text.replaceAll("&", "&amp;");
 	text = text.replaceAll("<", "&lt;");
