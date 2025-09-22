@@ -85,7 +85,7 @@ html += `
 html += `
 <h1>Every BFDI Branches Image (as of v${version})</h1>
 <p>For use in NPC <code class="inline-code">[img]</code> tags.</p>
-<p>Page made by CST1229. You can Ctrl+F this page!</p>
+<p>Page made by CST1229. To search, you can use your browser's "Find" feature (on desktop this can usually be done with Ctrl+F).</p>
 <p>Image previews are limited to the size of the screen to keep this page somewhat readable, as some of them are very large. You might have to downscale them when using them in NPCs. Relevant syntax from <a target="_blank" href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html">the Godot docs</a>:</p>
 <pre><code>[img]{path}[/img]
 [img={width}]{path}[/img]
