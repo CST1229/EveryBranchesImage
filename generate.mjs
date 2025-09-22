@@ -12,7 +12,7 @@ if (!fsSync.existsSync(decompPath + "global.gd")) {
 
 // get version from decompiled code
 const globalCode = await fs.readFile(decompPath + "global.gd", {encoding: "utf-8"});
-const version = globalCode.match(/var\s+version\s*=\s*"(.+?)"/s)[1];
+const version = globalCode.match(/(?:var|const)\s+version\s*:?=\s*"(.+?)"/s)[1];
 
 function escapeHTML(text) {
 	text = text.replaceAll("&", "&amp;");

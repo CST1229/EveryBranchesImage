@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.4 -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+<path d="M0,0 L10,0 L10,1 L11,1 L11,2 L12,2 L12,12 L11,12 L11,13 L10,13 L10,14 L0,14 L0,13 L-1,13 L-1,12 L-2,12 L-2,2 L-1,2 L-1,1 L0,1 Z M4,2 L4,8 L6,8 L6,2 Z M4,10 L4,12 L6,12 L6,10 Z " fill="#FFDD65" transform="translate(3,1)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z M-1,1 L0,1 L0,2 L-1,2 Z M-2,2 L-1,2 L-1,3 L-2,3 Z " fill="#FFDD65" transform="translate(3,1)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z M-1,1 L0,1 L0,2 L-1,2 Z " fill="#FFDE65" opacity="0.8862745" transform="translate(14,13)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z M-1,1 L0,1 L0,2 L-1,2 Z " fill="#FFDD65" opacity="0.89411765" transform="translate(2,1)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFDE65" opacity="0.8862745" transform="translate(2,14)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFDE65" opacity="0.8862745" transform="translate(14,2)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFDF68" opacity="0.2784314" transform="translate(14,14)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFE065" opacity="0.28627452" transform="translate(1,14)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFDD65" opacity="0.8901961" transform="translate(1,13)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFE065" opacity="0.28627452" transform="translate(14,1)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFDD65" opacity="0.8901961" transform="translate(13,1)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#FFDD66" opacity="0.29411766" transform="translate(1,1)"/>
+</svg>
