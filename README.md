@@ -1,6 +1,6 @@
 # Every Branches Image
 
-A website that lists every sprite file in BFDI Branches.
+A website that lists every image file usable in NPCs in [BFDI: Branches](https://teambranches.itch.io/bfdi-branches).
 
 ## Building
 

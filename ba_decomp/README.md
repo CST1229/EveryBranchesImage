@@ -1,0 +1,1 @@
+This is where you put your Barfy's Adventure decomp. It should be directly in the folder (i.e `ba_decomp/global.gd` should exist).
