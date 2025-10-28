@@ -93,6 +93,7 @@ html += `
 [img={valign}]{path}[/img]
 [img <a href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html" target="_blank">{options}</a>]{path}[/img]</code></pre>
 <p>The source code that generated this page: <a target="_blank" href="https://github.com/CST1229/EveryBranchesImage">https://github.com/CST1229/EveryBranchesImage</a></p>
+<p>See also: <a href="./ba">Every Barfy's Adventure Image</a></p>
 <table><thead><tr>
 <th scope="col">Path</th>
 <th scope="col">Image</th>
@@ -101,9 +102,11 @@ for await (const rawPath of fs.glob([decompPath + "**/*.png", decompPath + "**/*
 	const relativePath = rawPath.replaceAll("\\", "/").replaceAll(decompPath, "");
 	const resPath = "res://" + relativePath;
 	
-	// the invite in this image expired but just to be safe
-	// it's literally just some text anyways, not very useful for creators
-	if (resPath === "res://assets/ui/hmm.png") continue;
+	// devs said not to spoil
+	if (resPath.startsWith("res://assets/pfp/frame")) continue;
+	
+	// prevent modded stuff from appearing
+	if (resPath.includes("/mods-unpacked/") || resPath.includes("/mod_loader/") || resPath.includes("/mod_tool/") || resPath.includes("/JSON_Schema_Validator/")) continue;
 	
 	const dir = path.dirname(assetsPath + relativePath);
 	await fs.mkdir(dir, {recursive: true});

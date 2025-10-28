@@ -93,6 +93,7 @@ html += `
 [img={valign}]{path}[/img]
 [img <a href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html" target="_blank">{options}</a>]{path}[/img]</code></pre>
 <p>The source code that generated this page: <a target="_blank" href="https://github.com/CST1229/EveryBranchesImage">https://github.com/CST1229/EveryBranchesImage</a></p>
+<p>See also: <a href="./">Every BFDI: Branches Image</a></p>
 <table><thead><tr>
 <th scope="col">Path</th>
 <th scope="col">Image</th>
