@@ -91,7 +91,7 @@ html += `
 [img={width}]{path}[/img]
 [img={width}x{height}]{path}[/img]
 [img={valign}]{path}[/img]
-[img <a href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html" target="_blank">{options}</a>]{path}[/img]</code></pre>
+[img <a href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html#doc-bbcode-in-richtextlabel-image-options" target="_blank">{options}</a>]{path}[/img]</code></pre>
 <p>The source code that generated this page: <a target="_blank" href="https://github.com/CST1229/EveryBranchesImage">https://github.com/CST1229/EveryBranchesImage</a></p>
 <p>See also: <a href="./">Every BFDI: Branches Image</a></p>
 <table><thead><tr>
