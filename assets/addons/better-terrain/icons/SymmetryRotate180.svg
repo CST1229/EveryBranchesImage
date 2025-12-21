@@ -6,14 +6,17 @@
 <path d="M0,0 L3,0 L3,3 L2,3 L2,2 L1,2 L1,1 L0,1 Z M-4,2 L1,2 L1,3 L-4,3 Z " fill="#E0E0E0" transform="translate(10,10)"/>
 <path d="M0,0 L1,0 L1,1 L2,1 L2,2 L3,2 L3,3 L0,3 Z M2,0 L5,0 L5,1 L2,1 Z " fill="#E0E0E0" transform="translate(3,3)"/>
 <path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" transform="translate(8,3)"/>
-<path d="M0,0 L1,0 L1,2 L0,2 Z " fill="#E0E0E0" opacity="0.9529412" transform="translate(2,4)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.95686275" transform="translate(2,4)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.9529412" transform="translate(2,5)"/>
 <path d="M0,0 L1,0 L1,1 L0,1 Z M1,1 L2,1 L2,2 L1,2 Z " fill="#E0E0E0" opacity="0.8901961" transform="translate(4,10)"/>
-<path d="M0,0 L1,0 L1,2 L0,2 Z " fill="#E0E0E0" opacity="0.9372549" transform="translate(13,11)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.9411765" transform="translate(13,11)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.9372549" transform="translate(13,12)"/>
 <path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E1E1E1" opacity="0.4" transform="translate(13,5)"/>
 <path d="M0,0 L2,0 L2,1 L0,1 Z " fill="#E0E0E0" opacity="0.8862745" transform="translate(7,13)"/>
 <path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.4117647" transform="translate(2,10)"/>
 <path d="M0,0 L4,0 L4,1 L0,1 Z " fill="#E0E0E0" transform="translate(6,12)"/>
-<path d="M0,0 L2,0 L2,1 L0,1 Z " fill="#E0E0E0" opacity="0.8901961" transform="translate(11,9)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.89411765" transform="translate(11,9)"/>
+<path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.8901961" transform="translate(12,9)"/>
 <path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.06666667" transform="translate(7,4)"/>
 <path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.92941177" transform="translate(7,2)"/>
 <path d="M0,0 L1,0 L1,1 L0,1 Z " fill="#E0E0E0" opacity="0.6901961" transform="translate(9,10)"/>
