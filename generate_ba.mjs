@@ -87,7 +87,7 @@ html += `
 <h1>Every Barfy's Adventure Image (as of ${version})</h1>
 <p>For use in profile bio <code class="inline-code">[img]</code> tags.</p>
 <p>Page made by CST1229. To search, you can use your browser's "Find" feature (on desktop this can usually be done with Ctrl+F).</p>
-<p>Image previews are limited to the size of the screen to keep this page somewhat readable, as some of them are very large. You might have to downscale them when using them. Relevant syntax from <a target="_blank" href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html">the Godot docs</a>:</p>
+<p>Image previews are limited to the size of the screen to keep this page somewhat readable, as some of them are very large. You might have to downscale them when using them. Relevant syntax from <a target="_blank" href="https://docs.godotengine.org/en/4.3/tutorials/ui/bbcode_in_richtextlabel.html">the Godot docs</a>:</p>
 <pre><code>[img]{path}[/img]
 [img={width}]{path}[/img]
 [img={width}x{height}]{path}[/img]

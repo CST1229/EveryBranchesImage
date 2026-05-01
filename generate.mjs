@@ -13,7 +13,7 @@ if (!fsSync.existsSync(decompPath + "global.gd")) {
 
 // get version from decompiled code
 const globalCode = await fs.readFile(decompPath + "global.gd", {encoding: "utf-8"});
-const version = globalCode.match(/(?:var|const)\s+version\s*:?=\s*"(.+?)"/s)[1];
+const version = globalCode.match(/(?:var|const)\s+version\s*:?\s*=\s*"(.+?)"/s)[1];
 
 function escapeHTML(text) {
 	text = text.replaceAll("&", "&amp;");
@@ -87,7 +87,7 @@ html += `
 <h1>Every BFDI: Branches Image (as of v${version})</h1>
 <p>For use in NPC <code class="inline-code">[img]</code> tags.</p>
 <p>Page made by CST1229. To search, you can use your browser's "Find" feature (on desktop this can usually be done with Ctrl+F).</p>
-<p>Image previews are limited to the size of the screen to keep this page somewhat readable, as some of them are very large. You might have to downscale them when using them in NPCs. Relevant syntax from <a target="_blank" href="https://docs.godotengine.org/en/stable/tutorials/ui/bbcode_in_richtextlabel.html">the Godot docs</a>:</p>
+<p>Image previews are limited to the size of the screen to keep this page somewhat readable, as some of them are very large. You might have to downscale them when using them in NPCs. Relevant syntax from <a target="_blank" href="https://docs.godotengine.org/en/4.2/tutorials/ui/bbcode_in_richtextlabel.html">the Godot docs</a>:</p>
 <pre><code>[img]{path}[/img]
 [img={width}]{path}[/img]
 [img={width}x{height}]{path}[/img]
